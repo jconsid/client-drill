@@ -1,6 +1,7 @@
 # Övningsprojekt för träningsprojekt
 
-Ursprung webpack/react-starter
+Ursprung: webpack/react-starter
+https://github.com/webpack/react-starter
 
 ## Teknikstack
 
