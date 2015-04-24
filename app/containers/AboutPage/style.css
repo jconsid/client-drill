@@ -1,0 +1,10 @@
+.[this] {
+	background-color: black;
+	color: #4f4;
+	border: 3px dashed white;
+	padding: 2em;
+}
+
+.[this] a {
+	color: #afc;
+}

@@ -1,4 +1,6 @@
-# Project started from webpack/react-starter
+# Övningsprojekt för träningsprojekt
+
+Ursprung webpack/react-starter
 
 ## Teknikstack
 
