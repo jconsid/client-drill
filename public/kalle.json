@@ -1,0 +1,23 @@
+{
+    "results": {
+    	"_id": "22",
+        "namn": "Mathias Malmberg",
+        "kontorstillhorighet": "jkp",
+        "traningstillfallen": [{
+            "_id": "8271461287",
+            "varde": "4530",
+            "datum": "2014-10-01T16:19:34Z",
+            "namn": "Löpning",
+            "poang": "531",
+            "enhet": "meter"
+        }, {
+            "_id": "8271461287",
+            "varde": "6000",
+            "datum": "2014-10-04T16:19:34Z",
+            "namn": "Löpning",
+            "poang": "531",
+            "enhet": "meter"
+        }]
+    },
+    "status": "ok"
+}
