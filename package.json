@@ -45,6 +45,7 @@
     "url-loader": "^0.5.5",
     "uuid": "^2.0.1",
     "webpack": "^1.8.5",
-    "webpack-dev-server": "^1.4.7"
+    "webpack-dev-server": "^1.4.7",
+    "jquery": "2.1.3"
   }
 }
