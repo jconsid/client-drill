@@ -17,7 +17,6 @@ export default class Application extends React.Component {
 		return <div className={styles.this + (loading ? " " + styles.loading : "")}>
 			<MainMenu />
 			<div className={styles.loadingElement}>loading...</div>
-			<h1>Välkommen att träna...</h1>
 			
 			<RouteHandler />
 		</div>;
