@@ -43,7 +43,7 @@ module.exports = function(options) {
 
 	};
 	var externals = [
-		"jquery" : "jquery/dist"
+		
 	];
 	var modulesDirectories = ["web_modules", "node_modules"];
 	var extensions = ["", ".web.js", ".js", ".jsx"];

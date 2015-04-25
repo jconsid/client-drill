@@ -8,14 +8,46 @@
             "varde": "4530",
             "datum": "2014-10-01T16:19:34Z",
             "namn": "Löpning",
-            "poang": "531",
+            "poang": 531,
             "enhet": "meter"
         }, {
-            "_id": "8271461287",
+            "_id": "8271461288",
             "varde": "6000",
             "datum": "2014-10-04T16:19:34Z",
             "namn": "Löpning",
-            "poang": "531",
+            "poang": 661,
+            "enhet": "meter"
+        },
+        {
+            "_id": "8271461289",
+            "varde": "7000",
+            "datum": "2014-10-04T16:19:34Z",
+            "namn": "Löpning",
+            "poang": 800,
+            "enhet": "meter"
+        },
+        {
+            "_id": "8271461300",
+            "varde": "7000",
+            "datum": "2014-11-09T16:00:34Z",
+            "namn": "Löpning",
+            "poang": 800,
+            "enhet": "meter"
+        },
+        {
+            "_id": "8271461303",
+            "varde": "1000",
+            "datum": "2014-11-11T16:00:34Z",
+            "namn": "Löpning",
+            "poang": 100,
+            "enhet": "meter"
+        },
+        {
+            "_id": "8271461304",
+            "varde": "100",
+            "datum": "2014-12-24T15:16:34Z",
+            "namn": "Löpning",
+            "poang": 14,
             "enhet": "meter"
         }]
     },
