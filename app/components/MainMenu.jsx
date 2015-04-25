@@ -1,6 +1,5 @@
 import React from "react";
 import Client from "utils/Client";
-
 import { Link } from "react-router";
 
 export default class MainMenu extends React.Component {
@@ -9,7 +8,7 @@ export default class MainMenu extends React.Component {
 		console.log('client', c);
 		c.render();
 		return <div>
-			<nav>
+			<nav className="mmenu">
 				<ul>
 					<li><Link to="overview">Översikt</Link></li>
 					<li><Link to="statistics">Statistik</Link></li>	

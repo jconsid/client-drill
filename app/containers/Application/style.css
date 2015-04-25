@@ -22,18 +22,18 @@ body {
 .[loadingElement] {
 	float: right;
 }
-nav {
+nav.mmenu {
   display: flex;
   justify-content: center;
 }
-nav ul {
+nav.mmenu ul {
 	display: flex;
 }
 
-nav ul a {
+nav.mmenu ul a {
   padding: 1rem 2rem;
 }
-li {
+nav.mmenu li {
   background-image: linear-gradient(to bottom, transparent 50%, #D04B57 50%, #D04B57 95%, #BF404C 95%);
   background-size: 100% 200%;
   background-position: top center;
@@ -43,11 +43,11 @@ li {
   text-decoration: none;
   transition: all .25s ease-in-out;
 }
-li:hover {
+nav.mmenu li:hover {
   background-position: bottom center;
   color: rgba(0, 0, 0, 0.75);
 }
-li a {
+nav.mmenu * a {
 	font-family: 'Open Sans', helvetica, arial, sans-serif;
   color: #666;
   text-decoration: none;
@@ -55,7 +55,7 @@ li a {
   padding: 1rem 0;
   transition: all .25s ease-in-out;
 }
-li:hover a {
+nav.mmenu li:hover a {
   color: #fff;
   transition: color .25s;
 }

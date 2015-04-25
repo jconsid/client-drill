@@ -7,6 +7,7 @@ https://github.com/webpack/react-starter
 
 * Kompilering/modulhantering med webpack
 * React & jsx
+* Babel & ES6
 * react-router
 * CSS, LESS, SASS, Stylus
 * Embedded resources like images or fonts use DataUrls if appropriate
